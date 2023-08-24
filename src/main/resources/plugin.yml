@@ -1,0 +1,4 @@
+name: TownyConquest
+version: '${project.version}'
+main: me.dysxleia.townyconquest.TownyConquest
+api-version: '1.20'
